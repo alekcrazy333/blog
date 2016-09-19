@@ -1,0 +1,9 @@
+WARNING: Вывод oбьекта класса User; 1473842000 -> /admin.php
+INFO: Category Трубаsucsessfully added; 1474269154 -> /admin.php
+INFO: Blog MyFoodsucsessfully deleted; 1474273497 -> /admin.php
+INFO: Category Трубаsucsessfully added; 1474273565 -> /admin.php
+INFO: Category Трубаsucsessfully deleted; 1474273628 -> /admin.php
+INFO: Blog brebtsucsessfully deleted; 1474273635 -> /admin.php
+INFO: Blog brebtsucsessfully deleted; 1474273692 -> /admin.php
+INFO: Blog brebtsucsessfully deleted; 1474273851 -> /admin.php
+INFO: Blog brebtsucsessfully deleted; 1474273905 -> /admin.php
